@@ -29,6 +29,7 @@
     <url>http://jira.pentaho.com/browse/PRD</url>
   </issueManagement>
   <properties>
+    <simple-jndi.version>1.0.9-SNAPSHOT</simple-jndi.version>
     <bcel.version>5.1</bcel.version>
     <pentaho-mql-editor.version>9.3.0.0-SNAPSHOT</pentaho-mql-editor.version>
     <wstx.version>3.2.4</wstx.version>
